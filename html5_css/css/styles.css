@@ -61,7 +61,7 @@ main h2 {
     color:#000000;
     text-align: center;
     font-size: 200% ;
-    font-style: Verdana, sans-serif ;
+    font-family: Verdana, sans-serif ;
     border-bottom: 4px solid #BFB39B;
 }
 
@@ -69,14 +69,14 @@ main h3 {
     color:#000000;
     text-align: center;
     font-size: 200%;
-    font-style: Verdana, sans-serif ;
+    font-family: Verdana, sans-serif ;
     border-bottom: 4px solid #BFB39B;
 }
 main h4{
     color:#000000;
     text-align: center;
     font-size: 150%;
-    font-style: Verdana, sans-serif ;
+    font-family: Verdana, sans-serif ;
 }
 
 main img {
