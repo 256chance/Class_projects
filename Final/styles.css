@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-color: #f4f4f4;
   color: #333;
-  background-image: url(/Final/Images/background.jpg);
+  background-image: url("Images/background.jpg");
 }
 
 header {
@@ -11,7 +11,7 @@ header {
   color: white;
   text-align: center;
   padding: 20px 10px;
-  animation: myAnim 2s ease 0s 1 normal forwards;
+  animation: 2s ease 0s 1 normal forwards;
 }
 
 
